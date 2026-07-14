@@ -27,12 +27,7 @@ I'm passionate about transforming raw data into meaningful insights using data a
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization Dashboard
-
-> More advanced portfolio projects coming soon:
->
-> * Retail Sales Analytics End-to-End
-> * Customer Churn Analysis & Prediction
-
+  
 ---
 
 ## 🌱 Currently Learning
