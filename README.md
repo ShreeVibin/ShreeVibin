@@ -1,52 +1,87 @@
 # Hi, I'm Shree Vibin 👋
 
-## 📊 Aspiring Data Analyst
+## 📊 Aspiring Data Analyst | Machine Learning Enthusiast
 
-I'm passionate about transforming raw data into meaningful insights using data analysis and visualization techniques. I'm continuously improving my skills by building real-world projects and learning industry tools.
-
----
-
-## 🛠️ Tech Stack
-
-* 🐍 Python
-* 🗄️ SQL
-* 📊 Power BI
-* 📈 Pandas
-* 📉 NumPy
-* 📊 Matplotlib
-* 🎨 Seaborn
-* 📓 Jupyter Notebook
-* 🌿 Git & GitHub
+I'm passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning. I enjoy building real-world projects that combine analytical thinking with practical problem-solving, while continuously expanding my skills in Data Analytics and AI.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Technical Skills
 
-### 📌 CodSoft Data Analytics Internship
+### Programming
+- 🐍 Python
+- 🗄️ SQL
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Visualization Dashboard
-  
+### Data Analysis
+- 📊 Pandas
+- 📈 NumPy
+- 📋 Microsoft Excel
+
+### Data Visualization
+- 📉 Matplotlib
+- 🎨 Seaborn
+- 📊 Power BI
+
+### Machine Learning
+- 🤖 Scikit-learn
+- 📈 Linear Regression
+- 📧 Naive Bayes Classification
+- 🔤 Natural Language Processing (NLP)
+
+### Tools
+- 📓 Jupyter Notebook
+- 💻 VS Code
+- 🌿 Git & GitHub
+
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-* Advanced SQL
-* Power BI Dashboard Development
-* Machine Learning for Data Analytics
-* Business Intelligence
+## 📌 CodSoft Data Analytics Internship
+
+Completed projects involving:
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Sales Analysis
+- Titanic Survival Prediction
+
+**Skills:** Python, Pandas, Matplotlib, Seaborn, Data Analysis
 
 ---
 
-## 🎯 Career Goal
+## 🤖 QSkill AI & Machine Learning Internship
 
-To become a skilled Data Analyst who can solve business problems using data-driven insights and build impactful dashboards and analytics solutions.
+Completed projects involving:
+
+- House Price Prediction using Linear Regression
+- Spam Mail Detection using NLP & Naive Bayes
+
+**Skills:** Machine Learning, Scikit-learn, TF-IDF, Regression, Classification, NLP
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
 
-* GitHub: https://github.com/ShreeVibin
+- Advanced SQL
+- Power BI Dashboard Development
+- Business Analytics
+- Machine Learning
+- Data Storytelling
 
-Thank you for visiting my profile!
+---
+
+# 🎯 Career Goal
+
+To build a successful career in **Data Analytics** by leveraging data-driven insights, machine learning, and business intelligence to solve real-world problems and support informed decision-making.
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: **https://github.com/ShreeVibin**
+
+---
+
+⭐ Thank you for visiting my profile!
